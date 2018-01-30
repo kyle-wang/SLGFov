@@ -1,5 +1,6 @@
 说明
 *  这是一个为SLG游戏的大地图可视范围内的行军行为提供基础计算函数的golang库，某人所有的坐标点都处于第一象限
+
 Package说明
 
 * CheckIntersectSquareAndBeeline 函数实现判断一条行军线是否穿过某个视野区域
