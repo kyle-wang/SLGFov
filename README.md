@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/kyle-wang/SLGFov.svg?branch=master)](https://travis-ci.org/kyle-wang/SLGFov)
 
 说明
-*  这是一个为SLG游戏的大地图可视范围内的行军行为提供基础计算函数的golang库，某人所有的坐标点都处于第一象限
+*  这是一个为SLG游戏的大地图可视范围内的行军行为提供基础计算函数的golang库，默认所有的坐标点都处于第一象限
 
 Package说明
 
